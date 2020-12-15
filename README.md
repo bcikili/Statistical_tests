@@ -7,7 +7,7 @@ This code find answers for the following scenarios by running statisticals test 
 •	Two proportion z test
 •	Independent Chi-Square
 
-Scenario 2-3 uses kickstarter data uploaded in this repo.
+
 
 
 Scenario 1
